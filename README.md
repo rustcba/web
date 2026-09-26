@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AdminPro HTML 后台管理系统
 
 一个纯前端、零依赖的后台管理系统示例。
@@ -50,3 +51,5 @@ http://localhost:8080
 - RBAC 权限系统
 - 用户 / 商品 / 订单 CRUD
 - PostgreSQL / MySQL
+=======
+>>>>>>> origin/main
